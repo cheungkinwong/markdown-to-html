@@ -81,7 +81,7 @@ user friendly interface | not widly used
 pretty stable | mostly used for java
 
 #### User reviews
->  Although it's a good product, it has been through a number of major evolutionary stages. Its major advantages are that since it was a production from the very people who invented Java (Sun), it should in theory anticipate improvements to Java and support Java-specific features. To a certain degree, it does, although Sun could have done more, especially when it came to JavaBean development and JSFWSYWIG design, which are 2 aspects where NetBeans does have an edge on Eclipse to begin with. Because NetBeans doesn't attempt to be all things to all people, it does tend to provide better support for "grunt" development, whereas Eclipse is more my cup of tea, since I'm more prone to develop systems with multiple components interacting in complex ways and non-Java components.
+>  Although it's a good product, it has been through a number of major evolutionary stages. Its major advantages are that since it was a production from the very people who invented Java (Sun), it should in theory anticipate improvements to Java and support Java-specific features. To a certain degree, it does, although Sun could have done more, especially when it came to JavaBean development and design, which are 2 aspects where NetBeans does have an edge on Eclipse to begin with. Because NetBeans doesn't attempt to be all things to all people, it does tend to provide better support for "grunt" development, whereas Eclipse is more my cup of tea, since I'm more prone to develop systems with multiple components interacting in complex ways and non-Java components.
 
  _-Mashrafi Mohammad, 10 years of Computer experience-_  <br>
 
